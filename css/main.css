@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+h1 {
+    color: rgb(143, 123, 93);
+    /* text-align: center; */
+    padding-left: 170px;
+    text-shadow: blue;
+}
+
+#statingMessage {
+    text-shadow: rgb(54, 102, 5);
+    /* text-align: center; */
+    padding-left: 230px;
+    color: rgb(172, 160, 144);
+}
+
+#lastline {
+    text-shadow: chartreuse;
+    text-align: left;
+    color: aquamarine;
+    margin-left: 20%;
+    margin-right: 10%;
+    /* background: rgb(32, 32, 31); */
+}
+
+#board {
+    width: 650px;
+    height: 10%;
+    background: white;
+    text-align: center;
+    font-size: 35;
+    color: black;
+}
+
+#score {
+    /* background: yellowgreen; */
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+#success {
+    color: green;
+}
+
+#error {
+    color: red;
+}
+
+#tab {
+    width: 80px;
+}
+
+#pipe {
+    width: 32px;
+}
+
+#shift {
+    width: 112px;
+}
+
+#ctrl {
+    margin-right: 60px;
+}
+
+#ctrl2 {
+    margin-left: 60px;
+    width: 70px;
+}
+
+#space {
+    width: 240px;
+}
+
+#shift2 {
+    width: 70px;
+}
